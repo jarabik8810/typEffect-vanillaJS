@@ -6,4 +6,4 @@ Tools used in this video: VS Code, HTML , CSS , Javascript
 
 #
 
-Project : https://jarabik8810.github.io/typeEffect-vanillaJS/
+Project : https://jarabik8810.github.io/typEffect-vanillaJS/
